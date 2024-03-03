@@ -1,5 +1,5 @@
 # Calculatrice scientifique
-# Auteurs : Abdoulaye SALL
+# Auteur : Abdoulaye SALL
 
 import math  # Importation du module math pour les opérations mathématiques
 
