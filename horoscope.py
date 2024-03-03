@@ -1,4 +1,4 @@
-# Projet Horoscopde
+# Projet Horoscope
 # Auteurs : Abdoulaye SALL
 
 import datetime
