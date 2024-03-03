@@ -1,5 +1,5 @@
 # Projet Horoscope
-# Auteurs : Abdoulaye SALL
+# Auteur : Abdoulaye SALL
 
 import datetime
 
