@@ -165,7 +165,7 @@ while True:
    print("9. Pour la racine carrée")
    print("0. Pour quitter")
    
-   choix = input("Vueillez choisir votre opération svpv : ")  # Saisie du choix de l'utilisateur
+   choix = input("Vueillez choisir votre opération svp : ")  # Saisie du choix de l'utilisateur
    
    if choix == "1":  # Appel de la fonction d'addition ou de soustraction
       addition()
