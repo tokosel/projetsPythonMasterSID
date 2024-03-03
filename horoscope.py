@@ -1,3 +1,6 @@
+# Projet Horoscopde
+# Auteurs : Abdoulaye SALL
+
 import datetime
 
 # Liste des signes astrologiques avec leurs dates de début et de fin
